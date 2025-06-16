@@ -56,7 +56,6 @@
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "vaul": "^0.9.12",
     "zod": "^3.24.1"
   },
   "devDependencies": {
@@ -69,11 +68,10 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.3",
     "@eslint/eslintrc": "^3",
-    "postcss": "^8.5",
-    "overrides": {
-      "vaul": {
-        "react": "^19.0.0",
-        "react-dom": "^19.0.0"
-    }
+    "postcss": "^8.5"
+  },
+  "overrides": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
